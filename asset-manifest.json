@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/auto-temperature/static/css/main.d33dd536.css",
-    "main.js": "/auto-temperature/static/js/main.07795fc6.js",
+    "main.js": "/auto-temperature/static/js/main.28095b26.js",
     "static/media/donate.png": "/auto-temperature/static/media/donate.0a5f5b28e22a23a4bdbe.png",
     "index.html": "/auto-temperature/index.html",
     "main.d33dd536.css.map": "/auto-temperature/static/css/main.d33dd536.css.map",
-    "main.07795fc6.js.map": "/auto-temperature/static/js/main.07795fc6.js.map"
+    "main.28095b26.js.map": "/auto-temperature/static/js/main.28095b26.js.map"
   },
   "entrypoints": [
     "static/css/main.d33dd536.css",
-    "static/js/main.07795fc6.js"
+    "static/js/main.28095b26.js"
   ]
 }
