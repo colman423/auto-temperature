@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/auto-temperature/static/css/main.d33dd536.css",
+    "main.js": "/auto-temperature/static/js/main.06574e0a.js",
+    "index.html": "/auto-temperature/index.html",
+    "main.d33dd536.css.map": "/auto-temperature/static/css/main.d33dd536.css.map",
+    "main.06574e0a.js.map": "/auto-temperature/static/js/main.06574e0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d33dd536.css",
+    "static/js/main.06574e0a.js"
+  ]
+}
