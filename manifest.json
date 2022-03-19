@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Auto Temperature",
+  "name": "Auto Temperature",
   "icons": [
     {
       "src": "favicon.ico",
